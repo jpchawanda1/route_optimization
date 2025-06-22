@@ -1,12 +1,6 @@
 # Route Optimization
 
-Developed an Ant Colony Optimization (ACO) model in MATLAB to minimize delivery distances by 9.1%, factoring in traffic, weather, & geospatial data.
-
-Cleaned and analyzed Zomato’s Bangalore dataset, revealing key trends (e.g., fog increased delivery times by 30%).
-
-Visualized optimized routes and validated results through 10 simulation runs, ensuring consistency (SD ±3.7 km)
-
-Route Optimization is a Python-based project focused on solving the classical route optimization problems, such as the Traveling Salesperson Problem (TSP), Vehicle Routing Problem (VRP), and other logistics and delivery scenarios. The project is designed to provide efficient algorithms, visualization tools, and interfaces for real-world applications in logistics, transportation, and delivery services.
+Developed an Ant Colony Optimization (ACO) model in MATLAB to minimize delivery distances by 9.1%, factoring in traffic, weather, & geospatial data. Cleaned and analyzed Zomato’s Bangalore dataset, revealing key trends (e.g., fog increased delivery times by 30%). Visualized optimized routes and validated results through 10 simulation runs, ensuring consistency (SD ±3.7 km)
 
 ## Features
 
